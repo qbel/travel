@@ -1,0 +1,50 @@
+#top{
+	background-color:#323232;
+	color:#fff;
+	margin-bottom:0px;
+}
+#top1{
+	padding-top:20px;
+}
+#agent{
+	padding:8px;
+}
+#social{
+	color:#fff;
+	padding-left:8px;
+}
+#search{
+	padding:20px;
+	color: #0a7d7e;
+}
+#remove{
+	margin-top:0px;
+}
+#back{
+	filter: brightness(45%);
+}
+#mid{
+	margin-top:5px;
+	margin-bottom:0px;
+	font-weight:bolder;
+}
+#pic{
+	width: 45vh;
+	border-radius: 70px;
+}
+#ceo{
+	margin-top: 0px;
+	font-weight: bolder;
+	font-size:30px;
+}
+#miss{
+	margin-bottom: 0px;
+}
+#canvas{
+	filter: brightness(45%);
+}
+#foot{
+	background-color:#323232;
+	/*color:#fff;*/
+	/*margin-bottom:0px;*/
+}
